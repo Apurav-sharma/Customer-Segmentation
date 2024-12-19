@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Apurav/OneDrive/Desktop/Machine%20learning/projects/customer_segmentation/customer_segmentation/mlruns/0/a33b79b462cd4685b6cc4c2b73b4e73c/artifacts
+end_time: 1734581372945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33b79b462cd4685b6cc4c2b73b4e73c
+run_name: carefree-crane-374
+run_uuid: a33b79b462cd4685b6cc4c2b73b4e73c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734581349849
+status: 3
+tags: []
+user_id: Apurav

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Apurav/OneDrive/Desktop/Machine%20learning/projects/customer_segmentation/customer_segmentation/mlruns/0/1b9eba44ac064635ac440d74422f2210/artifacts
+end_time: 1734366327678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b9eba44ac064635ac440d74422f2210
+run_name: painted-perch-608
+run_uuid: 1b9eba44ac064635ac440d74422f2210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734366305006
+status: 3
+tags: []
+user_id: Apurav
